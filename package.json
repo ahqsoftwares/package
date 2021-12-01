@@ -1,20 +1,20 @@
 {
-  "name": "package",
+  "name": "anti-links-advanced",
   "version": "1.0.0",
-  "description": "A Package!",
+  "description": "Anti Link Detector!",
   "main": "code.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahqsoftwares/package.git"
+    "url": "git+https://github.com/ahqsoftwares/anti-links-advanced.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ahqsoftwares/package/issues"
+    "url": "https://github.com/ahqsoftwares/anti-links-advanced/issues"
   },
-  "homepage": "https://github.com/ahqsoftwares/package#readme"
+  "homepage": "https://github.com/ahqsoftwares/anti-links-advanced#readme"
 }
